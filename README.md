@@ -16,6 +16,28 @@ A General Purpose Data Analytics Agent that provides intelligent question answer
 ![Session History](screenshots/session-history.png)
 *Persistent conversation history with easy session switching*
 
+## Question & Answer Interaction
+
+### Complete Q&A Response
+![Q&A Full Response](screenshots/qa-full-response.png)
+*Full question and answer interaction showing comprehensive analytics response*
+
+### SQL Query Generation
+![SQL Query](screenshots/qa-sql-query.png)
+*Automatically generated SQL query with syntax highlighting*
+
+### Data Results Table
+![Data Table](screenshots/qa-data-table.png)
+*Formatted data table showing query results*
+
+### Data Visualization
+![Visualization](screenshots/qa-visualization.png)
+*Interactive charts and visualizations generated from query results*
+
+### Analysis & Insights
+![Analysis](screenshots/qa-analysis.png)
+*Detailed analysis and explanation of the results in plain language*
+
 ## Features
 
 - **Intelligent SQL Query Generation**: Automatically generates SQL queries based on natural language questions
