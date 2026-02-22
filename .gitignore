@@ -54,3 +54,7 @@ frontend/build/
 *.tmp
 *.bak
 *.swp
+
+# Include screenshots
+!screenshots/
+!screenshots/*.png
