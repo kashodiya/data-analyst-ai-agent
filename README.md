@@ -8,23 +8,13 @@ A General Purpose Data Analytics Agent that provides intelligent question answer
 ![Main Interface](screenshots/main-interface.png)
 *Clean, modern interface with session management and real-time streaming responses*
 
-### Query and Response
-![Query Response](screenshots/query-response.png)
-*Natural language queries converted to SQL with explanations and formatted results*
-
 ### Database Connection
 ![Database Connection](screenshots/database-connection.png)
 *Easy database configuration with support for SQLite (PostgreSQL/MySQL coming soon)*
 
-## Key Features in Action
-
 ### Session Management
 ![Session History](screenshots/session-history.png)
 *Persistent conversation history with easy session switching*
-
-### Transparent Processing
-![Tool Usage](screenshots/tool-usage.png)
-*Detailed view of tool calls and processing steps for full transparency*
 
 ## Features
 
